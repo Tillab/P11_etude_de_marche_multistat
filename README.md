@@ -1,7 +1,7 @@
 # Réaliser une étude de marché 
 Projet 11 OpenClassrooms
 
-<img src = presentation/P11_multistat_map.png height = 300 >
+<img src = presentation/P11_multistat_map_clusters.png height = 300 >
 
 ### Contexte et démarche
 Comment une entreprise en croissance peut-elle identifier les pays à privilégier pour son développement à l’international ? Dans ce projet, j’ai utilisé des méthodes statistiques multivariées — analyse en composantes principales (ACP) et classification non supervisée — pour identifier des groupes de pays présentant des caractéristiques potentiellement favorables au développement du marché d’un produit de poulet à vocation écologique.
